@@ -1,6 +1,6 @@
 **formation-git**
 
-##Chapitre 1
+**Chapitre 1**
 
 + 1
 + 2
@@ -15,4 +15,7 @@ Formation **GIT**
 Formation *GIT**
 
 [Lien](http://google.fr)
+[Duegho](http://duegho.com)
+[Openclassroom](http://openclasseroom.com) 
+
 
