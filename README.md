@@ -1,1 +1,18 @@
-"# formation-git" 
+**formation-git**
+
+##Chapitre 1
+
++ 1
++ 2
++ 3
+
+
+1. un
+2. deux
+
+Formation **GIT**
+
+Formation *GIT**
+
+[Lien](http://google.fr)
+
